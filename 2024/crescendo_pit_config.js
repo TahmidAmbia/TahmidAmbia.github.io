@@ -1,7 +1,7 @@
 var config_data = `
 {
   "dataFormat": "tsv",
-  "title": "Scouting PASS 2024",
+  "title": "FRC TEAM 818 SCOUTING",
   "page_title": "Crescendo",
   "pitConfig": "true",
   "prematch": [
