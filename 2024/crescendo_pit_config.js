@@ -54,6 +54,7 @@ var config_data = `
       "code": "mot",
       "type": "radio",
       "choices": {
+        "k": "Kraken<br>",
         "n": "Neo<br>",
         "f": "Falcon<br>",
         "c": "CIM<br>",
