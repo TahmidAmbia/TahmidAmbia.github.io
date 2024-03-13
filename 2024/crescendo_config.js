@@ -84,6 +84,13 @@ var config_data = `
      { "name": "Speaker Notes Scored",
       "code": "ass",
       "type": "counter"
+    },
+    { "name": "Auton Note Location",
+      "code": "anl",
+      "type": "clickable_image",
+      "filename": "2024/field_image.png",
+      "allowableResponses": "6.5 18.5 30.5 42.5 54.5 66.5",
+      "shape": "circle 5 black red true"
     }
   ],
   "teleop": [
