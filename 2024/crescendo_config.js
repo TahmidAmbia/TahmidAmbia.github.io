@@ -69,11 +69,19 @@ var config_data = `
       "code": "al",
       "type": "bool"
     },
-    { "name": "Amp Scores",
+    { "name": "Amp Notes Attempted",
+      "code": "aaa",
+      "type": "counter"
+    },
+     { "name": "Amp Notes Scored",
       "code": "aas",
       "type": "counter"
     },
-    { "name": "Speaker Scores",
+    { "name": "Speaker Notes Attempted",
+      "code": "asa",
+      "type": "counter"
+    },
+     { "name": "Speaker Notes Scored",
       "code": "ass",
       "type": "counter"
     }
