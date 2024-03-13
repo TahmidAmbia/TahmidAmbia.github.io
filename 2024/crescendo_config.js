@@ -89,7 +89,7 @@ var config_data = `
       "code": "anl",
       "type": "clickable_image",
       "filename": "2024/field_image.png",
-      "allowableResponses": "6.5 18.5 30.5 42.5 54.5 66.5",
+      "allowableResponses": "6 7 18 19 30 31 42 43 54 55 66 67",
       "shape": "circle 5 black red true"
     }
   ],
