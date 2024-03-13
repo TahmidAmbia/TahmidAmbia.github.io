@@ -87,11 +87,19 @@ var config_data = `
     }
   ],
   "teleop": [
-    { "name": "Amp Scores",
+   { "name": "Amp Notes Attempted",
+      "code": "taa",
+      "type": "counter"
+    },
+    { "name": "Amp Notes Scored",
       "code": "tas",
       "type": "counter"
     },
-    { "name": "Speaker Scores",
+    { "name": "Speaker Notes Attempted",
+      "code": "tsa",
+      "type": "counter"
+    },
+    { "name": "Speaker Notes Scored",
       "code": "tss",
       "type": "counter"
     },
