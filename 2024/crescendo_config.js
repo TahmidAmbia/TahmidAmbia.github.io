@@ -2,7 +2,7 @@ var config_data = `
 {
   "dataFormat": "tsv",
   "title": "FRC TEAM 818 SCOUTING",
-  "page_title": "Crescendo",
+  "page_title": "818/9558 Scouting",
   "checkboxAs": "10",
   "prematch": [
     { "name": "Scouter Initials",
