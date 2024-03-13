@@ -2,8 +2,8 @@
     font-family: 'Alexis';
     font-style: normal;
     font-weight: normal;
-    src: local('Alexis'), url('../fonts/alex.woff') format('woff');
-    src: url("../fonts/alexisv3.ttf") format('truetype');
+    src: local('Alexis'), url('../fonts/FalconsFont.woff') format('woff');
+    src: url("../fonts/FalconsFont.ttf") format('truetype');
 }
 
 html, body{
