@@ -88,6 +88,7 @@ var config_data = `
     { "name": "Auton Note Location",
       "code": "anl",
       "type": "clickable_image",
+      "clickRestriction": "eight",
       "filename": "2024/field_image.png",
       "allowableResponses": "6 7 18 19 30 31 42 43 54 55 66 67",
       "shape": "circle 5 black red true"
