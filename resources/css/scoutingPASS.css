@@ -2,7 +2,7 @@
     font-family: 'FalconsFont';
     font-style: normal;
     font-weight: normal;
-    src: local('Alexis'), url('../fonts/FalconsFont.woff') format('woff');
+    src: local('FalconsFont'), url('../fonts/FalconsFont.woff') format('woff');
     src: url("../fonts/FalconsFont.ttf") format('truetype');
 }
 
