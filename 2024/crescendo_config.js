@@ -93,6 +93,15 @@ var config_data = `
       "clickRestriction": "one",
       "allowableResponses": "2 6 7 11 18 19 26 30 31 35 38 42 43 47 54 55 66 67",
       "shape": "circle 5 black red true"
+    },
+    { "name": "Auton Note Location",
+      "code": "anlconfirm",
+      "type": "clickable_image",
+      "clickRestriction": "eight",
+      "filename": "2024/field_image.png",
+      "clickRestriction": "one",
+      "allowableResponses": "2 6 7 11 18 19 26 30 31 35 38 42 43 47 54 55 66 67",
+      "shape": "circle 5 black red true"
     }
   ],
   "teleop": [
