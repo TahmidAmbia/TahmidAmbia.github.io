@@ -89,7 +89,7 @@ var config_data = `
       "code": "anl",
       "type": "clickable_image",
       "filename": "2024/field_image.png",
-      "clickRestriction": "one",
+      "clickRestriction": "onePerBox",
       "allowableResponses": "2 6 7 11 18 19 26 30 31 35 38 42 43 47 54 55 66 67",
       "shape": "circle 5 black red true"
     },
@@ -97,7 +97,7 @@ var config_data = `
       "code": "anlconfirm",
       "type": "clickable_image",
       "filename": "2024/field_image.png",
-      "clickRestriction": "one",
+      "clickRestriction": "onePerBox",
       "allowableResponses": "2 6 7 11 18 19 26 30 31 35 38 42 43 47 54 55 66 67",
       "shape": "circle 10 black green true"
     }
