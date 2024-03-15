@@ -88,18 +88,20 @@ var config_data = `
     { "name": "Auton Note Location",
       "code": "anl",
       "type": "clickable_image",
-      "filename": "2024/field_image.png",
+      "filename": "2024/Final3x5GridForAuton.png",
+      "dimensions": "3 5",
       "clickRestriction": "onePerBox",
-      "allowableResponses": "2 6 7 11 18 19 26 30 31 35 38 42 43 47 54 55 66 67",
+      "allowableResponses": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15",
       "shape": "circle 5 black red true"
     },
     { "name": "Auton Note Location Confirm",
       "code": "anlconfirm",
       "type": "clickable_image",
-      "filename": "2024/field_image.png",
+      "filename": "2024/Final3x5GridForAuton.png",
+      "dimensions": "3 5",
       "clickRestriction": "onePerBox",
-      "allowableResponses": "2 6 7 11 18 19 26 30 31 35 38 42 43 47 54 55 66 67",
-      "shape": "circle 10 black green true"
+      "allowableResponses": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15",
+      "shape": "circle 5 black green true"
     }
   ],
   "teleop": [
