@@ -99,7 +99,7 @@ var config_data = `
       "filename": "2024/field_image.png",
       "clickRestriction": "one",
       "allowableResponses": "2 6 7 11 18 19 26 30 31 35 38 42 43 47 54 55 66 67",
-      "shape": "circle 5 black green true"
+      "shape": "circle 10 black green true"
     }
   ],
   "teleop": [
