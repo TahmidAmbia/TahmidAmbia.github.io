@@ -90,6 +90,7 @@ var config_data = `
       "type": "clickable_image",
       "clickRestriction": "eight",
       "filename": "2024/field_image.png",
+      "clickRestriction": "eight",
       "allowableResponses": "6 7 18 19 30 31 42 43 54 55 66 67",
       "shape": "circle 5 black red true"
     }
