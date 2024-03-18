@@ -139,7 +139,7 @@ var config_data = `
     { "name": "Is this Robot Primarily Passing Notes",
       "code": "tpn",
       "type": "bool"
-    },
+    }
   ],
   "endgame": [
     { "name": "Stage Timer",
