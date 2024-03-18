@@ -135,7 +135,11 @@ var config_data = `
         "x": "Not Attempted"
       },
       "defaultValue": "x"
-    }
+    },
+    { "name": "Is this Robot Primarily Passing Notes",
+      "code": "tpn",
+      "type": "bool"
+    },
   ],
   "endgame": [
     { "name": "Stage Timer",
