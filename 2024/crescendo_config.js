@@ -136,9 +136,13 @@ var config_data = `
       },
       "defaultValue": "x"
     },
-    { "name": "Is this Robot Primarily Passing Notes",
+    { "name": "Primarily Passing Notes",
       "code": "tpn",
       "type": "bool"
+    },
+    { "name": "Notes Passed",
+      "code": "tns",
+      "type": "counter"
     }
   ],
   "endgame": [
