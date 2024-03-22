@@ -15,7 +15,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "preScoutTroy",
+      "defaultValue": "2024miwmi",
       "required": "true"
     },
     { "name": "Match Level",
