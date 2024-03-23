@@ -15,7 +15,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "prescoutingtroy",
+      "defaultValue": "2024mitry",
       "required": "true"
     },
     { "name": "Match Level",
