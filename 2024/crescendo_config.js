@@ -15,7 +15,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2024mitry",
+      "defaultValue": "prescoutmacomb",
       "required": "true"
     },
     { "name": "Match Level",
